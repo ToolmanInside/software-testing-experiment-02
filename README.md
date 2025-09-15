@@ -8,7 +8,7 @@
 
 ## 实验步骤
 
-1. 使用``git clone```克隆本仓库至本地
+1. 使用```git clone```克隆本仓库至本地
 2. 基于被测程序```AqiClassifier```，补全```AqiClassifierTest```，要求使用固定片段方法（Fixture）、异常处理、条件测试
 3. 基于被测程序```AqiClassifier```，补全```AqiParamTest```，要求使用参数注入方法
 4. 运行测试
