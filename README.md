@@ -9,7 +9,7 @@
 ## 实验步骤
 
 1. 使用```git clone```克隆本仓库至本地
-2. 基于被测程序```AqiClassifier```，补全```AqiClassifierTest```，要求使用```@Before```、```@After```、```@BeforeClass```、```@AfterClass```、```@Test```等Annotation，包含普通测试用例、超时断言和异常断言
+2. 基于被测程序```AqiClassifier```，补全```AqiClassifierTest```，要求使用```@Before```、```@After```、```@BeforeClass```、```@AfterClass```、```@Test```等Annotation，包含普通断言、超时断言和异常断言
 3. 基于被测程序```AqiClassifier```，补全```AqiParamTest```，要求使用参数断言
 4. 运行测试
 
